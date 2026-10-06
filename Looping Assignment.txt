@@ -1,6 +1,6 @@
-                        // Looping Assignment all
+                        // Looping Assignment 
  
-Q1. Write a java program to print all natural numbers from 1 to n. using while loop
+Q1. Write a java program to print all natural numbers from 1 to n. using while loop loop
 Q2. Write a java program to print all natural numbers in reverse (from n to 1). using a while loop.
 Q3. Write a java program to print all alphabets from a to z. - using while loop
 Q4. Write a java program to print all even numbers between 1 to 100.- using while loop
